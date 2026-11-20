@@ -1,0 +1,6 @@
+{
+  "name": "ClimaNum — Weather Data Analysis System",
+  "description": "Interactive historical weather data analysis workbench powered by vectorized NumPy methods for missing-value imputation, outlier clipping, rolling averages, linear trend regression, and climate pattern visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

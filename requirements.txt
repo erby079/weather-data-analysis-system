@@ -1,0 +1,12 @@
+# Weather Data Analysis System — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core vectorized numerical array engine (used directly in the generated script)
+numpy>=1.26.0,<3.0.0
+
+# Scientific plotting & statistical heatmaps (used in the generated script)
+matplotlib>=3.8.0,<4.0.0
+seaborn>=0.13.0,<1.0.0
+
+# Optional tabular CSV & DatetimeIndex utilities for extended EDA
+pandas>=2.1.0,<3.0.0
